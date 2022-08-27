@@ -17,7 +17,7 @@
   <img width="25%" height="auto"  src="https://user-images.githubusercontent.com/40532644/187022095-67fd622e-54e8-41a1-8d8c-38e0692e1d0d.png" />
 </p>
 
-### Time Taken to complete the project - 4 Hrs
+### Time Taken to complete the project - 10 Hrs
 
 # Follow me On
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) 
