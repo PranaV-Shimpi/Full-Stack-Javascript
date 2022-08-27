@@ -3,7 +3,7 @@
 ## Skills Used in this project
 - Media Queries (Mobile, Tab Responsive)
 - Flexbox
-- Baground Image Properties
+- Background Image Properties
 
 
 ## Hosted on netlify [Live Preview Link](https://ps-css-project-15.netlify.app)
