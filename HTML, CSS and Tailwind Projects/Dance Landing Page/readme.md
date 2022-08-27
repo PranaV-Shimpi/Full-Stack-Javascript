@@ -14,7 +14,7 @@
   </p>
 
 
-### Time Taken to complete the project - 9 Hrs
+### Time Taken to complete the project - 4 Hrs
 
 # Follow me On
 [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@PranaVShimpi&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/pranav-shimpi/) 
