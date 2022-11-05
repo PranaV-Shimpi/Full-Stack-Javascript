@@ -5,6 +5,12 @@
 - Tailwind CSS
 
 ## Images
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40532644/200101837-7b33f491-377c-47bc-b7e6-983b5dbab401.png" width="70%">
+<img src="https://user-images.githubusercontent.com/40532644/200101843-66a45fad-aa43-4624-aed2-d380af192ce7.png" width="70%">
+<img src="https://user-images.githubusercontent.com/40532644/200101846-3538e5de-572e-499a-8905-3fb05a7208f3.png" width="70%">
+<img src="https://user-images.githubusercontent.com/40532644/200101853-7ecd6753-376c-4932-b0d8-5451f835e9e4.png" width="70%">
+</p>
 
 ### Times Taken to Create This Project - 15 Hrs
 
