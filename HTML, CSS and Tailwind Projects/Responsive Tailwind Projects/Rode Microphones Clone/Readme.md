@@ -4,6 +4,8 @@
 - HTML
 - Tailwind CSS
 
+## Hosted on Netlify: [Live Link](https://ps-rode-tailwind-clone.netlify.app/)
+
 ## Images
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40532644/200101837-7b33f491-377c-47bc-b7e6-983b5dbab401.png" width="70%">
