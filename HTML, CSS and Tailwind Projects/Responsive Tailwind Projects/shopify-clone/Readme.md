@@ -1,7 +1,7 @@
 # HTML and Tailwind CSS Shopify Clone Project
 
 ## Skills Used in this project
-- Tailwind CSS Framewoek
+- Tailwind CSS Framework
 
 ## Hosted on netlify [Live Preview Link](https://ps-shopify-tailwind-clone.netlify.app/)
 
