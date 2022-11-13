@@ -1,10 +1,15 @@
+# This project is only for Educational puspose
+<br>
+
 # HTML and Tailwind CSS Project
+<br>
 
 ## Skills Used in this project
 - Tailwind CSS Framewoek
+<br>
 
 ## Hosted on netlify [Live Preview Link](https://ps-paytm-clone.netlify.app/)
-
+<br>
 ## Desktop View Images
 <p align="center">
   <img width="45%" height="auto"   src="https://user-images.githubusercontent.com/40532644/191921020-4ef8eee0-dbd4-4856-a37a-019dae2952ab.png" />
