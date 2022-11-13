@@ -7,7 +7,7 @@
 - HTML
 <br>
 
-## 🔸Hosted on netlify [Live Preview Link](https://ps-paytm-clone.netlify.app/)
+## 🔸Hosted on netlify [Live Preview Link](https://ps-paayytmm-clone.netlify.app/)
 <br>
 
 ## 🔸Desktop View Images
