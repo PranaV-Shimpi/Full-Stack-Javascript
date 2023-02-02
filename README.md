@@ -1,7 +1,15 @@
 # ⭐ Full-Stack-Javascript-Projects ⭐
 
+
 - This repository contains Full Stack Web-App projects from scratch. 
 - Follow me, with the source code and Demo here.
+
+
+# ⭐ Tech Stack ⭐
+
+![Github FSJS](https://user-images.githubusercontent.com/40532644/191911146-8b00b0d7-d540-4aa4-92b4-1ce4f0d52ca0.png)
+
+
 
 ##  🛑 Full Stack Projects 🛑  
 
@@ -41,12 +49,6 @@
 | 1 | [Mobile, Tab and Web Fully Responsice Projects]( https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects/tree/main/Responsive%20HTML%20%26%20CSS%20Projects%207-15 )| [Demo Web]( https://ps-css-project-11.netlify.app/) |
 
 [See all HTML CSS Projects =>](https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects)
-
-
-
-# ⭐ Tech Stack ⭐
-
-![Github FSJS](https://user-images.githubusercontent.com/40532644/191911146-8b00b0d7-d540-4aa4-92b4-1ce4f0d52ca0.png)
 
 
 # ⭐ Follow me On ⭐
