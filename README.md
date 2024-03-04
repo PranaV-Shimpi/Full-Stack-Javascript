@@ -17,10 +17,7 @@
 ## 🛑 20 React Projects 🛑
 
 
-## 🛑 20 Advanced JavaScript Projects 🛑
-
-
-## 🛑 35+ JavaScript projects 🛑
+## 🛑 20 JavaScript projects 🛑
 
 
 
