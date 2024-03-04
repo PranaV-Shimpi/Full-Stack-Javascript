@@ -1,6 +1,6 @@
 # ⭐ Full-Stack-Javascript-Projects ⭐
 
-
+Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover an exciting collection of full-stack web applications built entirely from scratch. From dynamic user interfaces to robust backend functionality, these projects showcase the power and versatility of JavaScript across the entire web development stack.
 - This repository contains Full Stack Web-App projects from scratch. 
 - Follow me, with the source code and Demo here.
 
@@ -20,7 +20,8 @@
 ## 🛑 20 JavaScript projects 🛑
 | - | Source Code | Demo |
 |--|--|--|
-| 1 | [JS Projects Source Code](https://github.com/PranaV-Shimpi/JavaScript-Projects)| [Links](https://github.com/PranaV-Shimpi/JavaScript-Projects) |
+| 1 | [JS To Do List](https://github.com/PranaV-Shimpi/JavaScript-Projects/tree/main/Todo)| [Live Demo](https://landing-todo-list.netlify.app/) |
+| 2 | [All JS Projects Source Code](https://github.com/PranaV-Shimpi/JavaScript-Projects)| [Link](https://github.com/PranaV-Shimpi/JavaScript-Projects) |
 
 
 
