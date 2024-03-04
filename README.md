@@ -18,6 +18,9 @@
 
 
 ## 🛑 20 JavaScript projects 🛑
+| - | Source Code | Demo |
+|--|--|--|
+| 1 | [JS Projects Source Code](https://github.com/PranaV-Shimpi/JavaScript-Projects)| [Links](https://github.com/PranaV-Shimpi/JavaScript-Projects) |
 
 
 
