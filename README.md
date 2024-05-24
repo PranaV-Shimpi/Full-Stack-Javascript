@@ -13,8 +13,10 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 
 ##  🛑 Full Stack Projects 🛑  
 
+##  🛑MERN Stack Projects 🛑
 
-## 🛑 Next.js React Projects 🛑
+
+## 🛑 Next.js Projects 🛑
 
  
 ## 🛑 Advance React Projects 🛑
@@ -35,13 +37,15 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 ## View All 20 React Projects =>
 [Click Here to View All 20 React Projects](https://github.com/PranaV-Shimpi/20-React-apps/) 
 
+---
+
 ## 🛑 20 JavaScript projects 🛑
 | - | Source Code | Demo |
 |--|--|--|
 | 1 | [JS To Do List](https://github.com/PranaV-Shimpi/JavaScript-Projects/tree/main/Todo)| [Live Demo](https://landing-todo-list.netlify.app/) |
 | 2 | [All JS Projects Source Code](https://github.com/PranaV-Shimpi/JavaScript-Projects)| [Link](https://github.com/PranaV-Shimpi/JavaScript-Projects) |
 
-
+---
 
 ## 🛑 20 JavaScript DOM Mini Projects 🛑
 
@@ -49,11 +53,15 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 |--|--|--|
 | 1 | [DOM ](https://github.com/PranaV-Shimpi/JavaScript-DOM/blob/main/JavaScript.md )| [Demo](https://github.com/PranaV-Shimpi/JavaScript-DOM) |
 
+---
+
 ## 🛑 60+ Basic JavaScript Questions 🛑
 | - | Source Code | Demo |
 |--|--|--|
 | 1 | [Basics ](https://github.com/PranaV-Shimpi/JavaScript-Basics )| [Demo](https://github.com/PranaV-Shimpi/JavaScript-Basics/blob/main/35%20JavaScript%20Questions.md) |
 | 2 | [Advanced ](https://github.com/PranaV-Shimpi/JavaScript-Basics)| [Demo](https://github.com/PranaV-Shimpi/JavaScript-Basics/blob/main/Advance%20JavaScript%20Questions.md) |
+
+---
 
 ## 🛑 Tailwind CSS Projects 🛑
 | - | Source Code | Demo |
@@ -62,12 +70,16 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 | 2 | [Road Microhones Clone]( https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects/tree/main/Rode%20Microphones%20Tailwind%20CSS%20Clone)| [Demo Web](https://ps-rode-tailwind-clone.netlify.app/ ) |
 | 3 | [Paytm Clone](https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects/tree/main/paytm%20Tailwind%20CSS%20clone) | [Demo Web](https://ps-paayytmm-clone.netlify.app/ )
 
+---
+
 ## 🛑 15 Responsive HTML and CSS Projects 🛑
 | - | Source Code | Demo |
 |--|--|--|
 | 1 | [Mobile, Tab and Web Fully Responsice Projects]( https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects/tree/main/Responsive%20HTML%20%26%20CSS%20Projects%207-15 )| [Demo Web]( https://ps-css-project-11.netlify.app/) |
 
 [See all HTML CSS Projects =>](https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects)
+
+---
 
 
 # ⭐ Follow me On ⭐
