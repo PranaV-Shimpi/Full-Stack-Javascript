@@ -14,8 +14,26 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 ##  🛑 Full Stack Projects 🛑  
 
 
+## 🛑 Next.js React Projects 🛑
+
+ 
+## 🛑 Advance React Projects 🛑
+
+
 ## 🛑 20 React Projects 🛑
 
+| - | Source Code | Live Demo |
+|--|--|--|
+| 1 | [Gemini AI Search](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/17-gemini-clone/README.md)| [https://ps-gemini-ai-search.netlify.app/](https://ps-gemini-ai-search.netlify.app/) |
+| 2 | [Edutech University Website](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/16-edutech-univeristy-website/README.md) | [https://ps-edutech-university.netlify.app/](https://ps-edutech-university.netlify.app/) | 
+| 3 | [Recipe Finder App using React](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/13-food-recipe-search/README.md) | [https://taste-treasure.netlify.app/](https://taste-treasure.netlify.app/) |
+| 4 | [Chat Visualization](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/11-chat-visualization/README.md) | [https://chat-visualization.netlify.app/](https://chat-visualization.netlify.app/) |  
+| 5 | []() | []() |  
+| 6 | []() | []() |  
+| 7 | [Unsplash Infinite Scroll](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/06-unsplash-images-clone-infinite-scrolling/README.md) | [https://unsplash-images-infinite-scrolling.netlify.app/](https://unsplash-images-infinite-scrolling.netlify.app/) |  
+
+## View All 20 React Projects =>
+[Click Here to View All 20 React Projects](https://github.com/PranaV-Shimpi/20-React-apps/) 
 
 ## 🛑 20 JavaScript projects 🛑
 | - | Source Code | Demo |
