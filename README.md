@@ -28,8 +28,8 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 | 2 | [Edutech University Website](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/16-edutech-univeristy-website/README.md) | [https://ps-edutech-university.netlify.app/](https://ps-edutech-university.netlify.app/) | 
 | 3 | [Recipe Finder App using React](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/13-food-recipe-search/README.md) | [https://taste-treasure.netlify.app/](https://taste-treasure.netlify.app/) |
 | 4 | [Chat Visualization](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/11-chat-visualization/README.md) | [https://chat-visualization.netlify.app/](https://chat-visualization.netlify.app/) |  
-| 5 | []() | []() |  
-| 6 | []() | []() |  
+| 5 | [O-Auth Realtime Authenticaion](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/08-auth-o-authentication/README.md) | [https://ps-authentication.netlify.app/](https://ps-authentication.netlify.app/) |  
+| 6 | [Calendar Dates Picker](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/10-calendar-dates-picker/README.md) | [https://calendar-date-picker.netlify.app/](https://calendar-date-picker.netlify.app/) |  
 | 7 | [Unsplash Infinite Scroll](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/06-unsplash-images-clone-infinite-scrolling/README.md) | [https://unsplash-images-infinite-scrolling.netlify.app/](https://unsplash-images-infinite-scrolling.netlify.app/) |  
 
 ## View All 20 React Projects =>
