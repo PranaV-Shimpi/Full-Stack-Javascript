@@ -34,8 +34,8 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 | 6 | [Calendar Dates Picker](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/10-calendar-dates-picker/README.md) | [https://calendar-date-picker.netlify.app/](https://calendar-date-picker.netlify.app/) |  
 | 7 | [Unsplash Infinite Scroll](https://github.com/PranaV-Shimpi/20-React-apps/blob/main/06-unsplash-images-clone-infinite-scrolling/README.md) | [https://unsplash-images-infinite-scrolling.netlify.app/](https://unsplash-images-infinite-scrolling.netlify.app/) |  
 
-## View All 20 React Projects =>
-[Click Here to View All 20 React Projects](https://github.com/PranaV-Shimpi/20-React-apps/) 
+### View All 20 React Projects =>
+All React Projects: [Click Here to View All 20 React Projects](https://github.com/PranaV-Shimpi/20-React-apps/) 
 
 ---
 
@@ -43,7 +43,10 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 | - | Source Code | Demo |
 |--|--|--|
 | 1 | [JS To Do List](https://github.com/PranaV-Shimpi/JavaScript-Projects/tree/main/Todo)| [Live Demo](https://landing-todo-list.netlify.app/) |
-| 2 | [All JS Projects Source Code](https://github.com/PranaV-Shimpi/JavaScript-Projects)| [Link](https://github.com/PranaV-Shimpi/JavaScript-Projects) |
+
+### View All 20 React Projects =>
+All JavaScript Projects: [Click Here to View All JavaScript Projects](https://github.com/PranaV-Shimpi/JavaScript-Projects/blob/main/README.md) 
+
 
 ---
 
@@ -77,7 +80,7 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 |--|--|--|
 | 1 | [Mobile, Tab and Web Fully Responsice Projects]( https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects/tree/main/Responsive%20HTML%20%26%20CSS%20Projects%207-15 )| [Demo Web]( https://ps-css-project-11.netlify.app/) |
 
-[See all HTML CSS Projects =>](https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects)
+All HTML & CSS Projects: [See all HTML CSS Projects =>](https://github.com/PranaV-Shimpi/HTML-CSS-and-Tailwind-Projects)
 
 ---
 
