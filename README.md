@@ -12,14 +12,12 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 
 
 ##  🛑 Full Stack Projects 🛑  
-
-##  🛑MERN Stack Projects 🛑
-
-
-## 🛑 Next.js Projects 🛑
+| - | Source Code | Demo |
+|--|--|--|
+| 1 | [Realtime Spotify Music with Chat]()| [https://github.com/PranaV-Shimpi/realtime-spotify-music-with-chat](https://github.com/PranaV-Shimpi/realtime-spotify-music-with-chat) |
 
  
-## 🛑 Advance React Projects 🛑
+## 🛑 Advance React, Next.js Projects 🛑
 
 
 ## 🛑 20 React Projects 🛑
