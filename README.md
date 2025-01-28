@@ -36,6 +36,14 @@ Welcome to the Full-Stack JavaScript Projects repository! Here, you'll discover 
 All React Projects: [Click Here to View All 20 React Projects](https://github.com/PranaV-Shimpi/20-React-apps/) 
 
 ---
+## 🛑 TypeScript 🛑
+
+| - | Source Code | Demo |
+|--|--|--|
+| 1 | [TypeScript Usage](https://github.com/PranaV-Shimpi/TypeScript)| [Code](https://github.com/PranaV-Shimpi/TypeScript) |
+
+
+---
 
 ## 🛑 20 JavaScript projects 🛑
 | - | Source Code | Demo |
