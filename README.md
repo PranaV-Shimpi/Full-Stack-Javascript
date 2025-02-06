@@ -41,6 +41,7 @@ All React Projects: [Click Here to View All 20 React Projects](https://github.co
 | - | Source Code | Demo |
 |--|--|--|
 | 1 | [TypeScript Usage](https://github.com/PranaV-Shimpi/TypeScript)| [Code](https://github.com/PranaV-Shimpi/TypeScript) |
+| 2 | [Ecommerce Shopping Cart](https://github.com/PranaV-Shimpi/E-commerce-WebAPP-TypeScript)| [Code](https://github.com/PranaV-Shimpi/E-commerce-WebAPP-TypeScript) |
 
 
 ---
